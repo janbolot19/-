@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="header">
+        <div class="logo">
+            <div class="logo_img"><a href="https://online.kstu.kg/my/"><img src="E:\дипломка\Лого-КГТУ-238x300.png" width="30px" height="40px" alt=""></a>
+        </div>
+    </div>
+       <p class="lng-P_1">Кыргызский Государственный Технический Университет им. И. Раззакова</p> 
+       <div class="P_3"><a href="https://online.kstu.kg/grade/report/overview/index.php">Насиридинов Жанболот</a></div>
+       <select class="change-lang">
+                <!-- <option value="ua">UA</option> -->
+                <option value="ru" selected>Русский ‎(ru)</option>
+                <option value="en">English ‎(en)</option>
+            </select>
+    </div>
+    <div class="main_border">
+    <div class="header_2">
+        <p class="lng-chip"> Web-программирование </p>
+        <!-- <div class="lng-chip"><p>Web-программирование</p> </div> -->
+        <!-- <div class="a"><a href="https://online.kstu.kg/my/">
+          <button class="glow-on-hover" type="button">Личный кабинет</a></button>  
+        </a>
+    </div> -->
+    <div class="Flex"><a class="lng-unit" href="E:\дипломка\.vscode\test.html">Личный кабинет</a>
+      <p class="lng-memory-type">/ Мои курсы /</p>
+      <a class="lng-unit" href="">Wb</a>
+    </div>
+</div>
+</div>
+    <div class="main_border2">
+<div class="main">
+        
+<a href="https://online.kstu.kg/mod/forum/view.php?id=23174"><button class="lng-glow-on-hover" type="button">Объявления </button></a>
+<div class="border_1"></div>
+<div class="AAAA">
+<a class="lng-A_2" href="">УМК</a></div>
+<div class="border_2"></div>
+<div class="lng-room_1"><a href="">Силлабус</a>
+
+</div>
+<div class="a_2"><a href="E:\дипломка\Силлабус_Web-программирование.docx"><button class="lng-glow-on-hover" type="button">Силлабус</button>
+    </a></div>
+    <div class="flex">
+<div class="AAAA">
+        <div class="lng-room_2"><a href="">Лекции </a></div>  
+</div>    
+          
+        <div class="a"><a  href="E:\дипломка\Адаптивность.">
+            <button class="lng-glow-on-hover" type="button">Лекции</button>  
+        </a> 
+    </div>
+        <div class="a">
+            <a href="C:\Users\User\Documents\GitHub\diplom\Блочная система .docx">
+            <div class="a"><button class="lng-glow-on-hover" type="button"> Блочная система</button>
+            </a>
+        </div>
+        <div class="a"><a href="Таблицы .docx"><button class="lng-glow-on-hover" type="button"> Таблицы</button>
+        </a>
+        </div>
+        <div class="a">
+            <a href="E:\дипломка\Flex.docx">
+            <button class="lng-glow-on-hover" type="button"> Flex</button>
+        </a>
+        </div>
+        <div class="a"><a href="E:\дипломка\Симантические теги.docx">
+            <button class="lng-glow-on-hover" type="button"> Симатические теги</button>
+        </a>
+        </div>
+        <div class="a"><a href="E:\дипломка\Position.docx">
+            <button class="lng-glow-on-hover" type="button"> Position</button>
+        </a>
+        </div>
+        <div class="a"><a href="E:\дипломка\CSS трансформ.docx">
+            <button class="lng-glow-on-hover" type="button"> Transform</button>
+        </a>
+    </div>
+        <div class="a"><a href="E:\дипломка\Forms.docx">
+            <button class="lng-glow-on-hover" type="button"> Form</button> 
+        </a>
+    </div>
+        <div class="a"><a  href="E:\дипломка\Адаптивность.docx">
+            <button class="lng-glow-on-hover" type="button"> Адаптивность</button>  
+        </a>
+    </div>
+        </div>
+        <div class="lng-room_3"><a href="">Лабораторные работы</a></div>
+            <div class="border_3"></div>
+
+            <div  class="lng-room_4"><a href="">СРС</a></div>
+                <div class="a"><a  href="E:\дипломка\CSS трансформ (1).docx">
+                    <button class="lng-glow-on-hover" type="button"> СРС</button>  
+                </a>
+            </div>
+            <div class="border_4"></div>
+            <div class="lng-room_5"><a href="">Глассарий</a></div>
+                <div class="border_5"></div>    
+                <div class="lng-room_6" style="margin-left: 20px;"><a href="">Итоговый контроль</a></div>
+                    <div><a  href="E:\дипломка\Адаптивность.docx">
+                        <button class="lng-glow-on-hover" type="button"> Итоговый контроль</button>  
+                    </a>
+                </div>
+                <div class="a_2"><a  href="https://online.kstu.kg/mod/quiz/view.php?id=24910">
+                    <button class="lng-glow-on-hover" type="button">ТЕСТ</button>  
+                </a>
+            </div>
+            <div class="lng-room_7"><a href="">Литературы</a>
+                <div class="border_6"></div>
+                </div>
+                <div class="lng-room_8"><a href="">Тема 9</a></div>
+                    <div class="border_7"></div>
+                    <div  class="lng-room_9"><a href="">Тема 10</a>
+
+
+</div>
+<div class="footer">
+    <div class="Ass">
+    <p class="lng-Ass_1" style="color: white;">Вы зашли под именем</p>
+    <a class="foot" href="https://online.kstu.kg/user/profile.php?id=1981">Жанболот Насиридинов</a>
+    <a class="lng-Ass_2" href="https://online.kstu.kg/">(Выход)</a><br>
+    <a class="lng-Ass_3" href="https://online.kstu.kg/course/view.php?id=2001#">Сбросить тур для пользователя на этой странице</a><br>
+    <a class="lng-Ass_4" href="https://online.kstu.kg/my/">В начало</a><br>
+    <a class="lng-Ass_5" href="https://online.kstu.kg/admin/tool/dataprivacy/summary.php">Сводка хранения данных</a><br>
+</div>
+</div>
+<script src="lang.js"></script>
+<script src="app.js"></script>
+
+
+
+</body>
+</html>
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ItGid.info - создаем многоязычный сайт</title>
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body> -->
+    <!-- <header class="site-header">
+        <div class="container-free">
+            <h1 class="site-title">
+                ItGid.info
+            </h1>
+            
+        </div>
+    </header> -->
+    <!-- <div class="container">
+        
+        <section>
+            <dl>
+                <dt class="lng-chip">Графический чип привет</dt>
+                <dd class="lng-chip-value">GeForce GTX 1650</dd>
+                <dt class="lng-memory">Объем памяти</dt>
+                <dd class="lng-memory-value">4Гб</dd>
+                <dt class="lng-memory-type">Тип памяти</dt>
+                <dd class="lng-memory-type-value">GDDR6</dd>
+                <dt class="lng-cool">Тип системы охлаждения</dt>
+                <dd class="lng-cool-value">Активная</dd>
+
+                <dt class="lng-room">охлаждения</dt>
+                <dd class="lng-room-value">Активная</dd>
+
+                <dt class="lng-hoou">ПРиВЕТ</dt>
+                <dd class="lng-hoou-value">Активная</dd>
+            </dl>
+        </section>
+        <section>
+            <div>
+                <a href="#" class="lng-more">Детально о товаре</a>
+            </div>
+        </section>
+    </div>
+    
+</body>
+
+</html> -->
